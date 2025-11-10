@@ -1,0 +1,9 @@
+Experiment Run Time: Mon Nov 10 12:41:24 2025
+
+========== SUBSET SUM COMPARISON ==========
+Array: {3, 34, 4, 12, 5, 2}, Target = 9
+
+Bellman DP Result: Subset Found | Time: 0 µs
+Fast Low-Space Result: Subset Found | Time: 0 µs
+Parameterized Result: Subset Found | Time: 1000 µs
+==========================================
